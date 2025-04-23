@@ -1,0 +1,29 @@
+{
+  "name": "express2-homework",
+  "version": "1.0.0",
+  "description": "here you have a products array.you should implement CRUD routes using express and it's folder structure.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahdi-eskandari/express2-homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahdi-eskandari/express2-homework/issues"
+  },
+  "homepage": "https://github.com/mahdi-eskandari/express2-homework#readme",
+  "devDependencies": {
+    "express": "^5.1.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "nodemon": "^3.1.9"
+  }
+}
